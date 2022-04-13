@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# API key
+roadapikey.txt
+kakaoapikey.txt
+
 # C extensions
 *.so
 
